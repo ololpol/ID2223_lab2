@@ -1,0 +1,6 @@
+gradio[oauth]
+huggingface_hub
+transformers
+torch
+accelerate
+llama-cpp-python==0.3.16 --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
