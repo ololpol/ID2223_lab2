@@ -1,4 +1,4 @@
-# Air Quality Prediction Pipeline with Hopsworks
+# Parameter Efficient Fine-Tuning (PEFT) of a Large Language Model on a GPU
 
 This project finetunes LLama-3.2-1B-Instruct on the FineTome100K dataset. The model is trained using **Unsloth** on google colab, and is hosted at **Hugging Face**. Hugging Face spaces is used to make the model avaliable with the help of **Gradio**. The finetuned model is compared to the original model using user prompts or sample promts from the training dataset.
 
